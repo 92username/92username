@@ -6,8 +6,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### **Frameworks**
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-1E90FF?style=for-the-badge&logoColor=white)
-
+- ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-1E90FF?style=for-the-badge&logoColor=white)
 ### **Tools**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux Terminal](https://img.shields.io/badge/-Terminal-000000?style=for-the-badge&logo=linux&logoColor=white) ![VPS](https://img.shields.io/badge/-VPS-FF6A00?style=for-the-badge)
 ### **Database**
