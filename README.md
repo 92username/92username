@@ -1,5 +1,5 @@
 
-# BUIDL ! 
+# DEPLOY ! 
 ## 🌟 Technologies & Tools
 
 ### **Languages**
