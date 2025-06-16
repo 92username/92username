@@ -17,6 +17,8 @@
 ### **OS**
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
+[![wakatime](https://wakatime.com/badge/user/18ea9654-7296-4928-ae9d-d779bb3e72b3.svg)](https://wakatime.com/@18ea9654-7296-4928-ae9d-d779bb3e72b3)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=92username)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=92username&show_icons=true&theme=radical)
 
